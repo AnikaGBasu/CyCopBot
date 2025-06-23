@@ -1,0 +1,4 @@
+To create the classification model, open the following GitHub repository:
+https://github.com/AnikaGBasu/CyberbullyingDetectionModel
+
+Run all cells in the notebook to store your model on your device.
