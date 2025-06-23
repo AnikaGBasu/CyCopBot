@@ -121,7 +121,7 @@ cd CyCopDiscordBot
 	pip install --upgrade pip
 	pip install torch transformers
 
-4. Run all the cells in the bertbot.ipynb file. By default, the model will be saved in the same repository if you are using editors like Visual Studio Code. Otherwise, place your fine-tuned BERT checkpoint in the directory. The folder model_save/ must contain these five files:
+4. Follow the link in the bertbot.txt file to run all the cells in the model notebook. By default, the model will be saved in the same repository if you are using editors like Visual Studio Code. Otherwise, place your fine-tuned BERT checkpoint in the directory. The folder model_save/ must contain these five files:
   ```
    model_save/
 	├── bert_classifier_state_dict.pt
